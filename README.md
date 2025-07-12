@@ -1,4 +1,4 @@
-[Skill Swap↗️](https://skillswap-seven.vercel.app/) is an innovative platform where users can register, list their skills and interests, and find others on the platform to teach and learn from each other. It's a community-driven skill exchange network designed to foster collaborative learning and personal growth.
+[Skill Swap↗️]is an innovative platform where users can register, list their skills and interests, and find others on the platform to teach and learn from each other. It's a community-driven skill exchange network designed to foster collaborative learning and personal growth.
 
 ## Table of Contents
 - [Skill Swap](#skill-swap)
@@ -101,4 +101,7 @@ We welcome contributions! Please follow these steps to contribute:
 - **Group Skill Swaps**: Allow users to join group sessions for skill exchanges.
 - **Video Tutorials**: Integrate video tutorials for popular skills.
 - **Gamification**: Introduce badges and rewards to motivate users.
+
+ Go to file directory of seedSkills.js.
+run 'node seedSkills.js' to seed the local database with initial seeds.
 
